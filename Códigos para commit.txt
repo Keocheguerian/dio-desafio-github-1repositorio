@@ -1,0 +1,5 @@
+git add *
+
+git commit -m "comentários"
+
+git push origin main
